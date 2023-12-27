@@ -10,8 +10,6 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=famisics)](https://github.com/famisics/github-readme-stats)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github.com/famisics)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=famisics&theme=onedark)](https://github.com/famisics/github-profile-trophy)
-
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)
+[![trophy](https://github-profile-trophy.vercel.app/?username=famisics&theme=radical)](https://github.com/famisics/github-profile-trophy)
