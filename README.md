@@ -12,7 +12,7 @@
 #### 技術スタック
 
 > フロント: Nuxt, Vue, Tailwind  
-> バックエンド: Worker, Nuxt, Node  
+> バックエンド: Workers, Nuxt, Node  
 > 配信: Cloudflare, GA4, HSTS, S3
 
 ## ポートフォリオサイト
@@ -24,7 +24,7 @@
 なんかもうすっごいいっぱいある
 
 > フロント: Nuxt, Vue, Tailwind, bulma, Bootstrap, SCSS, Masonary, Vitepress, howler, ...  
-> バックエンド: Worker, Nuxt, Node, Vue, CMSAPI(newt, microcms)  
+> バックエンド: Workers, Nuxt, Node, Vue, CMSAPI(newt, microcms)  
 > 配信: Cloudflare, GA4, CDNJS, HSTS, S3
 
 フロントは数えたら倒れるので `wapparize` してください
