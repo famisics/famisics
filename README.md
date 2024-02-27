@@ -12,8 +12,8 @@
 #### 技術スタック
 
 > フロント: Nuxt, Vue, Tailwind  
-> バックエンド: Workers, Nuxt, Node  
-> 配信: Cloudflare, GA4, HSTS, S3
+> バックエンド: Workers, Nuxt, Node.js  
+> 配信: Cloudflare, GA4, HSTS, R2
 
 ## ポートフォリオサイト
 
