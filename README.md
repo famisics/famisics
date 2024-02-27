@@ -23,9 +23,9 @@
 
 なんかもうすっごいいっぱいある
 
-> フロント: Nuxt, Vue, Tailwind, bulma, Bootstrap, SCSS, Masonary, Vitepress, howler, ...  
+> フロント: Nuxt, Vue, Tailwind, bulma, Bootstrap, Masonary, Vitepress, howler, ...  
 > バックエンド: Workers, Nuxt, Node, Vue, CMSAPI(newt, microcms)  
-> 配信: Cloudflare, GA4, CDNJS, HSTS, S3
+> 配信: Cloudflare, GA4, CDNJS, HSTS, R2
 
 フロントは数えたら倒れるので `wapparize` してください
 
