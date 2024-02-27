@@ -1,6 +1,6 @@
 ### Webを叩きます
 
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github.com/famisics)
+<!-- [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github.com/famisics) -->
 
 一部のリポジトリは公開を停止しています  
 連絡を取る必要がある場合は [About | uiro.dev](https://uiro.dev/about) 内の連絡先までお願いします
