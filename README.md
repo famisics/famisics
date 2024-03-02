@@ -1,5 +1,3 @@
-### Webを叩きます
-
 <!-- [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github.com/famisics) -->
 
 ほぼすべてのリポジトリについて、公開を停止しています  
