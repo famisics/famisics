@@ -1,13 +1,11 @@
 <!-- [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github.com/famisics) -->
 
+# [プロフィール (famisics.uiro.dev)](https://famisics.uiro.dev)
 ほぼすべてのリポジトリについて、公開を停止しています  
-連絡を取る必要がある場合は [About | uiro.dev](https://uiro.dev/about) 内の連絡先までお願いします
 
-## メインサイト
+  
 
-[uiro.dev](https://uiro.dev)  
-
-#### 技術スタック
+## 技術スタック
 
 > フロント: Nuxt, Vue, Tailwind  
 > バックエンド: Workers, Nuxt, Node.js  
