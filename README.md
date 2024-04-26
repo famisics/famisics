@@ -6,7 +6,7 @@
 
 ### [> 過去サイト (uiro.dev/arc)](https://uiro.dev/arc)
 
-### 技術スタック
+### > 技術スタック
 
 > フロント: Nuxt, Vue, Tailwind, React  
 > バックエンド: Workers, Nuxt, Node.js  
