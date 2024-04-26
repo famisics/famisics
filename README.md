@@ -1,6 +1,6 @@
 <!-- [![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=famisics&theme=2077)](https://github.com/famisics) --> 
 
-![me.uiro.dev](https://me.uiro.dev/src/qrcode.png)
+![me.uiro.dev](https://cdn.uiro.dev/public%2Fprofile.png)
 
 ### [> プロフィール (me.uiro.dev)](https://me.uiro.dev)
 
