@@ -2,7 +2,7 @@
 
 <!-- ![me.uiro.dev](https://cdn.uiro.dev/public%2Fprofile.png) --> 
 
-### Visit → [uiro.dev](https://me.uiro.dev)
+### Visit → [uiro.dev](https://uiro.dev)
 
 Prepare for top speed⚡️
 
