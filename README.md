@@ -2,7 +2,9 @@
 
 <!-- ![me.uiro.dev](https://cdn.uiro.dev/public%2Fprofile.png) --> 
 
-### [> プロフィール (me.uiro.dev)](https://me.uiro.dev)
+### Visit → [uiro.dev](https://me.uiro.dev)
+
+Prepare for top speed⚡️
 
 <!-- ### [> 過去サイト (uiro.dev/arc)](https://uiro.dev/arc)
 
