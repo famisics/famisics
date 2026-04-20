@@ -1,4 +1,4 @@
-### Visit my website → [uiro.dev](https://uiro.dev)
+### Visit → [uiro.dev](https://uiro.dev)
 
 Prepare for top speed⚡️
 
